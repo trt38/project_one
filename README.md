@@ -24,9 +24,8 @@
   <li>Water System Search (as a back-up)</li>
   <li>US Census Bureau - SAIPE State and County Estimates for 2018</li>
 </ul>
-<p><b>Tasks:</b></P>
-
 <br>
+<p><b>Tasks:</b></P>
 <ul>
 <b>Development Requirements</b>
   <li>Use Pandas to clean and format datasets. (Tatiana)</li>
@@ -38,8 +37,9 @@
   <li>Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and  any relevant plots. (Tatiana)</li> 
 </ul>
 
-<ul>
+<br>
 <b>Presentation (8-10 min):</b>
+<ul>
   <li>Summarize where and how we found data (Kai)</li>
   <li>Describe the data exploration and cleanup process (Tatiana)</li>
   <li>Describe the analysis process (Tatiana & Kai)</li>
