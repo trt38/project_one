@@ -25,8 +25,10 @@
   <li>US Census Bureau - SAIPE State and County Estimates for 2018</li>
 </ul>
 <p><b>Tasks:</b></P>
+
+<br>
 <ul>
-Development Requirements
+<b>Development Requirements</b>
   <li>Use Pandas to clean and format datasets. (Tatiana)</li>
   <li>Create a Jupyter Notebook describing the data exploration and cleanup process. (Tatiana)</li>
   <li>Create a Jupyter Notebook illustrating the final data analysis. (Tatiana & Kai)</li>
