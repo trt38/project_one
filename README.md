@@ -5,17 +5,17 @@
 <b>Title:</b> Sip, Sip… Pass?
 <br>
 <b><i>Outline</i></b>
-<b>Description:</b> This project analyzes the correlation between median household income and reported drinking water safety violations in US counties in 2018. 
+<p><b>Description:</b> This project analyzes the correlation between median household income and reported drinking water safety violations in US counties in 2018.</p> 
 <p><b>Hypothesis:</b> We hypothesize that if there is a negative correlation between median household income and drinking water safety violations.</p>
 <p><b>Null Hypothesis:</b> There is not a significant linear correlation between median household income and drinking water safety violations.</p>
-<br>
-<b>Research Questions:</b>
+
+<p><b>Research Questions:</b>
 <ol>
   <li>What, if any, impact does income have on the adherence to drinking water safety regulations?</li>
   <li>What is the relationship between income and drinking water safety across United States counties?</li>
   <li>What are the top five chemicals referenced in the violations?</li>
   <li>What are the most prevalent potential health effects in the areas with the most drinking water safety violations?</li>
-</ol>
+</ol></P>
 <br>
 <b>Datasets:</b>
 <ul>
