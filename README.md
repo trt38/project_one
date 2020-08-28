@@ -26,8 +26,9 @@
 </ul>
 <br>
 <p><b>Tasks:</b></P>
-<ul>
+
 <b>Development Requirements</b>
+<ul>
   <li>Use Pandas to clean and format datasets. (Tatiana)</li>
   <li>Create a Jupyter Notebook describing the data exploration and cleanup process. (Tatiana)</li>
   <li>Create a Jupyter Notebook illustrating the final data analysis. (Tatiana & Kai)</li>
