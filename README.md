@@ -8,7 +8,7 @@
 <p><b>Description:</b> This project analyzes the correlation between median household income and reported drinking water safety violations in US counties in 2018.</p> 
 <ul>
 <li><b>Hypothesis:</b> We hypothesize that if there is a negative correlation between median household income and drinking water safety violations.</li>
-<li><b>Null Hypothesis:</b> There is not a significant linear correlation between median household income and drinking water safety violations.</li>
+<li><b>Null Hypothesis:</b> There is not a significant correlation between median household income and drinking water safety violations.</li>
 </ul>
 
 <p><b>Research Questions:</b>
