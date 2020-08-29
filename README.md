@@ -22,7 +22,7 @@
 <b>Datasets:</b>
 <ul>
   <li><b>EPA</b> - Safe Drinking Water Information System</li>
-  <li>Envirofacts Data Service API</li>
+  <ul><li>Envirofacts Data Service API</li></ul>
   <li>Water System Search (as a back-up)</li>
   <li>US Census Bureau - SAIPE State and County Estimates for 2018</li>
 </ul>
