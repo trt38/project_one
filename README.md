@@ -31,21 +31,21 @@
 
 <b>Development Requirements</b>
 <ul>
-  <li>Use Pandas to clean and format datasets. (Tatiana)</li>
-  <li>Create a Jupyter Notebook describing the data exploration and cleanup process. (Tatiana)</li>
-  <li>Create a Jupyter Notebook illustrating the final data analysis. (Tatiana & Kai)</li>
-  <li>Use Matplotlib to create a total of 6–8 visualizations of your data. (Kai)</li>
-  <li>Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in the presentation. (Kai)</li>
-  <li>Use at least one API, if you can find an API with data pertinent to your primary research questions. (Tatiana)</li>
-  <li>Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and  any relevant plots. (Tatiana)</li> 
+  <li>Use Pandas to clean and format datasets. </li>
+  <li>Create a Jupyter Notebook describing the data exploration and cleanup process. </li>
+  <li>Create a Jupyter Notebook illustrating the final data analysis. </li>
+  <li>Use Matplotlib to create a total of 6–8 visualizations of your data.</li>
+  <li>Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in the presentation.</li>
+  <li>Use at least one API, if you can find an API with data pertinent to your primary research questions.</li>
+  <li>Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and  any relevant plots.</li> 
 </ul>
 
 <br>
 <b>Presentation (8-10 min):</b>
 <ul>
-  <li>Summarize where and how we found data (Kai)</li>
-  <li>Describe the data exploration and cleanup process (Tatiana)</li>
-  <li>Describe the analysis process (Tatiana & Kai)</li>
-  <li>Summarize conclusions (numerical and visual summary) (Kai)</li>
-  <li>Describe the implications of your findings (Tatiana)</li>
+  <li>Summarize where and how we found data</li>
+  <li>Describe the data exploration and cleanup process </li>
+  <li>Describe the analysis process </li>
+  <li>Summarize conclusions (numerical and visual summary) </li>
+  <li>Describe the implications of your findings </li>
 </ul>
